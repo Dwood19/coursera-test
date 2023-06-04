@@ -1,1 +1,36 @@
+<!DOCTYPE html>
 
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOD2 Test</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<h1>Coursera Mod 2</h1>
+<div class="main lg1">
+    <div id="beef">Beef</div>
+    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        "</p>
+</div>
+<div class="main lg2">
+    <div id="pork">Pork</div>
+    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        "</p>
+</div>
+<div class="main lg3">
+    <div id="chicken">Chicken</div>
+    <p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        "</p>
+</div>
+
+</body>
+
+
+</html>
